@@ -43,7 +43,7 @@
 ### 📌 Featured Projects
 
 | Project | What it demonstrates | Stack |
-
+|---|---|---|
 | [**Lalit-Ecom-Application**](https://github.com/lalitbhadane/Lalit-Ecom-Application) | Automated setup & deployment of an e-commerce web app on Ubuntu/WSL | Shell, Nginx |
 | [**DevOps-Journey**](https://github.com/lalitbhadane/DevOps-Journey) | Daily hands-on log of Linux & DevOps learning — proof of consistent, self-directed work | Linux, Bash |
 
